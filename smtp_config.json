@@ -16,5 +16,11 @@
     "port": 587,
     "user": "visualcaption@gmail.com",
     "pass": "fvmd hpbz xyci dvqy"
+  },
+  "caodulieu485": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "caodulieu485@gmail.com",
+    "pass": "rxgr vlqu qgzk whdv"
   }
 }
