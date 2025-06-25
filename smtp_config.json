@@ -22,5 +22,11 @@
     "port": 587,
     "user": "caodulieu485@gmail.com",
     "pass": "rxgr vlqu qgzk whdv"
+  },
+  "thanhtruongle456":{
+    "server":"smtp.gmail.com",
+    "port": 587,
+    "user":"thanhtruongle456@gmail.com",
+    "pass":"zvig rrxs ovfy xktr"
   }
 }
