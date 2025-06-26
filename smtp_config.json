@@ -1,10 +1,4 @@
 {
-  "thanhtruong16042004": {
-    "server": "smtp.gmail.com",
-    "port": 587,
-    "user": "thanhtruong16042004@gmail.com",
-    "pass": "kani fiur ajbp mvyc"
-  },
   "thanhtruongle477": {
     "server": "smtp.gmail.com",
     "port": 587,
@@ -13,7 +7,7 @@
   },
   "visualcaption": {
     "server": "smtp.gmail.com",
-    "port": 587,  
+    "port": 587,
     "user": "visualcaption@gmail.com",
     "pass": "fvmd hpbz xyci dvqy"
   },
@@ -23,10 +17,34 @@
     "user": "caodulieu485@gmail.com",
     "pass": "rxgr vlqu qgzk whdv"
   },
-  "thanhtruongle456":{
-    "server":"smtp.gmail.com",
+  "thanhtruongle456": {
+    "server": "smtp.gmail.com",
     "port": 587,
-    "user":"thanhtruongle456@gmail.com",
-    "pass":"zvig rrxs ovfy xktr"
+    "user": "thanhtruongle456@gmail.com",
+    "pass": "zvig rrxs ovfy xktr"
+  },
+  "caodulieu789": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "caodulieu789@gmail.com",
+    "pass": "glgt acik fmzt qqig"
+  },
+  "truongautomation16": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "truongautomation16@gmail.com",
+    "pass": "bopt yopj pape qrmc"
+  },
+  "thanhtruongle1604": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "thanhtruongle1604@gmail.com",
+    "pass": "rlmk hpfb hocl jngo"
+  },
+  "imagecaption3": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "imagecaption3@gmail.com",
+    "pass": "fdiq ysnm oppx bsnc"
   }
 }
