@@ -46,5 +46,11 @@
     "port": 587,
     "user": "imagecaption3@gmail.com",
     "pass": "fdiq ysnm oppx bsnc"
+  },
+  "start": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "start@strongbody.ai",
+    "pass": "gclq pdiq ajhm igqq"
   }
 }
