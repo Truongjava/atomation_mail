@@ -52,5 +52,11 @@
     "port": 587,
     "user": "start@strongbody.ai",
     "pass": "gclq pdiq ajhm igqq"
+  },
+  "hawke4543": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "user": "hawke4543@gmail.com",
+    "pass": "jrui ovrb lvql ityp"
   }
 }
